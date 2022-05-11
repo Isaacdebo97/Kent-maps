@@ -50,3 +50,19 @@ Others are selectable using icons displayed in the top right margin of the parag
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0792350769042969,
+          51.28054827883556
+        ]
+      }
+    }
+  ]
+}
